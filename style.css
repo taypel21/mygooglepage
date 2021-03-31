@@ -1,0 +1,146 @@
+footer{
+    background-color: #f2f2f2;
+    position:fixed;
+    bottom: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 100%;
+    }
+
+body{
+    font-family: arial,sans-serif;
+    font-size:14px;
+    color: #222222;
+
+}
+
+.linktexttop a{
+    color: #222222;
+    text-decoration:none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    margin-right: 15px
+}
+
+.g{
+    color:#4285f4;
+}
+
+.o1,
+.e{
+    color: #ea4335;
+}
+.o2{
+    color: #fbbc05;
+}
+.l{
+    color: #34a853;
+}
+
+
+.google-logo{
+    width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.search-buttons{
+    width: 300px;
+    height: 91px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 10px;
+}
+.search-buttons button{
+    
+    margin-left: 10px;
+  margin-right: 10px;
+  background-color: #f8f9fa;
+    padding: 10px;
+  border-color: transparent;
+}
+
+.search-bar{
+    width: 582px;
+    height:44px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  border: 1px solid #dfe1e5;
+  border-style: solid;
+  border-width: 1px;
+  
+  
+}
+
+.right-links{
+    position: absolute;
+    right: 50px;
+    padding: 0px 10px 0px 40px;
+}
+
+.footer-right{
+    position: absolute;
+    right: 50px;
+
+}
+
+.footer-center{
+    float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footer-left{
+    float: left;
+    margin-right: 100px;
+  text-decoration: none;
+  padding-right: 15px;
+  padding-left: 20px;
+  display: inline-block; /* change the display type           */
+  margin-right: 600px;        /* apply the needed vertical margins */
+  justify-content: space-between;
+  
+}
+
+.footer-left a{
+    margin-right: 35px;
+}
+
+.footer-right a{
+    margin-right: 35px;
+}
+
+.carbon-image{
+    float: none;
+  position: absolute;
+  top: 50%;
+  left: 44.0%;
+  transform: translate(-50%, -50%);
+    height: 14px;
+inline-size: 12px;
+}
+
+.magnifying-glass{
+  float: none;
+  fill: currentColor;
+  color: #9aa0a6;
+  height: 20px;
+  width: 20px;
+  left: 33%;
+}
+
+.linktextbottom a{
+    color: #70757a;
+    text-decoration:none;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+
+}
